@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btn_maps"
+        android:icon="@drawable/ic_map"
+        app:showAsAction="ifRoom"
+        android:title="@string/maps"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/btn_language"
+        android:icon="@drawable/ic_translate_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/language"
+        android:checkable="true"/>
+
+    <item
+        android:id="@+id/btn_logout"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/logout"
+        android:checkable="true"/>
+</menu>

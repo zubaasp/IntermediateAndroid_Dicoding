@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">stroyapp2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="maps">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="error_password">Password must be more than 8 characters</string>
+    <string name="language">Language</string>
+    <string name="location">Location</string>
+    <string name="error_name_empty">Name is required.</string>
+    <string name="error_email_empty">Email is required.</string>
+    <string name="bg_story">Background Story</string>
+    <string name="img_story">Image Story</string>
+    <string name="img_logo">Image logo</string>
+    <string name="img_pp">Profile Picture</string>
+    <string name="back">Back</string>
+    <string name="retry">Try again</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="loading">Now Loading</string>
+    <string name="fab_content">Button add</string>
+    <string name="error_camera_permission">No permission</string>
+    <string name="gallery_title">Gallery</string>
+    <string name="success_create">Upload Story Successfully</string>
+</resources>
